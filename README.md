@@ -8,7 +8,7 @@ This project is a web-based tool that automatically generates a concise summary 
 ## Live Demo
 You can access and use the live application here:
 
-**(INSERT YOUR STREAMLIT APP URL HERE)**
+**[https://resume-summarizer-app-mzdwwsgesz2sh8ppiqcfix.streamlit.app/](https://resume-summarizer-app-mzdwwsgesz2sh8ppiqcfix.streamlit.app/)**
 
 ### Screenshots
 
