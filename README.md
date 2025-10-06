@@ -11,6 +11,7 @@ You can access and use the live application here:
 **[https://resume-summarizer-app-mzdwwsgesz2sh8ppiqcfix.streamlit.app/](https://resume-summarizer-app-mzdwwsgesz2sh8ppiqcfix.streamlit.app/)**
 
 ### Screenshots
+<img width="1189" height="697" alt="image" src="https://github.com/user-attachments/assets/3b578776-1c55-4fac-a9c4-0080dec8ef46" />
 
 
 ---
